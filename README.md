@@ -1,9 +1,9 @@
-### Hi there 👋
+# ¡Hi there, I'm Christian Toro! 👋
 
-<!--
-**Crixtoro/Crixtoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Experienced back-end developer with a strong passion for learning and a solid background in the Java language. Possessing robust skills in designing, developing, and maintaining systems, I have a proven ability to solve complex problems and adapt swiftly to new technological environments. I am currently seeking opportunities to expand and excel in the development world, where I can leverage my knowledge to contribute to the success of ambitious projects.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
