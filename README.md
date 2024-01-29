@@ -4,7 +4,13 @@
 
 ## About me
 
-Experienced back-end developer with a strong passion for learning and a solid background in the Java language. Possessing robust skills in designing, developing, and maintaining systems, I have a proven ability to solve complex problems and adapt swiftly to new technological environments. I am currently seeking opportunities to expand and excel in the development world, where I can leverage my knowledge to contribute to the success of ambitious projects.
+I'm Instrumentation and Control Engineer whit experience in sales and back-end development. I'm passionate about continuous learning and grotwh. Possessing robust skills in designing, developing, and maintaining systems, I have a proven ability to solve complex problems and adapt swiftly to new technological environments. I am currently seeking opportunities to expand and excel in the development world, where I can leverage my knowledge to contribute to the success of ambitious projects.
+
+## Find me around the web:
+
+
+
+
 
 <!--Here are some ideas to get you started:
 
